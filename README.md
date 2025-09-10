@@ -9,7 +9,7 @@ Repo này được phát hành công khai theo giấy phép [MIT License](./LICE
 
 ## 🌐 Demo
 Bạn có thể truy cập website trực tiếp tại đây:  
-👉 [Xem Website](https://tuanbmt235789.github.io/BanDienThoai/2)
+👉 [Xem Website](https://tuanbmt235789.github.io/BanDienThoai)
 
 ---
 
